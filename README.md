@@ -2,7 +2,7 @@
 
 ## 👨‍🎓 Computer Engineering Student at Trinity College Dublin
 
-Hello, I'm Suhail — a passionate developer who enjoys building meaningful, user-focused products. I thrive at the intersection of technology, creativity, and real-world impact. I'm especially interested in AI/ML, gamification, and systems that help people think and work more effectively.
+Hello, I'm Suhail — a passionate developer who enjoys building meaningful, user-focused products. I thrive for building scalable applications by leveraging AI and machine learning to solve real-world problems.
 
 - 🌍 Based in UAE / Studying in Ireland  
 - 🌱 Learning how to build full-stack apps and smart AI agents
