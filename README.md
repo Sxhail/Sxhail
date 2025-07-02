@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, my name is Suhail Jameel 👋
 
-<!--
-**Sxhail/Sxhail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍🎓 Computer Engineering Student at Trinity College Dublin
 
-Here are some ideas to get you started:
+Hello, my name is Suhail, I enjoy building things that live on the internet — from web apps to mobile games. I’m especially interested in AI, reflex-based games, and building smart productivity tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌍 Based in UAE 🇦🇪 / Studying in Ireland
+- 🌱 Currently learning Full-Stack Web Dev and AI/ML
+- 💼 Working on: ReflexRush, Flow Assistant
+- 📫 Reach me at: [suhailjameel7@gmail.com](mailto:suhailjameel7@gmail.com)
+
+---
+
+### ⚡ Skills
+
+<p align="left">
+  <p align="left">
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,keras,opencv,sklearn,js,html,css,react,nodejs,supabase,tailwind,git" />
+</p>
+
+</p>
+
+
+### 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/suhail-jameel-34285b268)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](suhailjameel7@gmail.com)
+
