@@ -4,9 +4,9 @@
 
 Hello, my name is Suhail, I enjoy building things that live on the internet — from web apps to mobile games. I’m especially interested in AI, reflex-based games, and building smart productivity tools.
 
-- 🌍 Based in UAE 🇦🇪 / Studying in Ireland
+- 🌍 Based in UAE / Studying in Ireland
 - 🌱 Currently learning Full-Stack Web Dev and AI/ML
-- 💼 Working on: ReflexRush, Flow Assistant
+- 💼 Working on: Dub AI, ReflexRush
 - 📫 Reach me at: [suhailjameel7@gmail.com](mailto:suhailjameel7@gmail.com)
 
 ---
@@ -15,7 +15,7 @@ Hello, my name is Suhail, I enjoy building things that live on the internet — 
 
 <p align="left">
   <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,keras,opencv,sklearn,js,html,css,react,nodejs,supabase,tailwind,git" />
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,opencv,sklearn,js,html,css,react,nodejs,supabase,tailwind,git" />
 </p>
 
 </p>
