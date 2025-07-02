@@ -2,7 +2,7 @@
 
 ## 👨‍🎓 Computer Engineering Student at Trinity College Dublin
 
-Hello, my name is Suhail, I enjoy building things that live on the internet — from web apps to mobile games. I’m especially interested in AI, reflex-based games, and building smart productivity tools.
+Hello, I'm Suhail — a builder at heart who loves creating things that live online. From fast-paced reflex games to intelligent productivity assistants, I enjoy working at the intersection of code, creativity, and human behavior. I'm especially passionate about AI/ML, gamified systems, and building tools that help people work smarter.
 
 - 🌍 Based in UAE / Studying in Ireland
 - 🌱 Currently learning Full-Stack Web Dev and AI/ML
