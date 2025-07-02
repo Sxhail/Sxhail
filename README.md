@@ -5,7 +5,7 @@
 Hello, I'm Suhail — a passionate developer who enjoys building meaningful, user-focused products. I thrive for building scalable applications by leveraging AI and machine learning to solve real-world problems.
 
 - 🌍 Based in UAE / Studying in Ireland  
-- 🌱 Learning how to build full-stack apps and smart AI agents
+- 🌱 Learning how to build full-stack apps and smart AI systems
 
 - 💼 Working on: **Dub AI**, **ReflexRush**  
 - 📫 Reach me at: [suhailjameel7@gmail.com](mailto:suhailjameel7@gmail.com)
